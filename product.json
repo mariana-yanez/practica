@@ -7,7 +7,7 @@
         "cost": 13500,
         "currency": "USD",
         "soldCount": 14,
-        "productos relacionados": [1, 3]
+        "productosRelacionados": [1, 3]
     },
     {   
         "id": 2,
@@ -17,7 +17,7 @@
         "cost": 14500,
         "currency": "USD",
         "soldCount": 52,
-        "productos relacionados": [1, 3]
+        "productosRelacionados": [1, 3]
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "cost": 12500,
         "currency": "USD",
         "soldCount": 25,
-        "productos relacionados": [1, 3]
+        "productosRelacionados": [1, 3]
     },
     {
         "id": 4,
@@ -37,6 +37,6 @@
         "cost": 15200,
         "currency": "USD",
         "soldCount": 17,
-        "productos relacionados": [1, 3]
+        "productosRelacionados": [1, 3]
     }
 ]
